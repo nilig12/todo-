@@ -1,4 +1,4 @@
-import React, { useState, type FormEvent } from 'react'
+import { useState, type FormEvent } from 'react'
 import { useTodos } from '../store/todos'
 
 const AddToDo = () => {
